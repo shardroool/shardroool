@@ -8,7 +8,7 @@ I'm a first-year CSE (Data Science) student at MIT AOE, and a total explorer whe
 
 Hope you find my repos helpful. 👋
 
-
+<br clear="left">
 
 **🌱 Currently learning**
 
