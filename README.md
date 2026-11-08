@@ -4,9 +4,9 @@
 
 ### About me!
 
-Hey there! Hope you find my repos helpful. 👋
-
 I'm a first-year CSE (Data Science) student at MIT AOE, and a total explorer when it comes to code. I like building small things, breaking them, and figuring out why.
+
+Hope you find my repos helpful. 👋
 
 **🌱 Currently learning**
 
